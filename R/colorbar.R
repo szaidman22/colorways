@@ -1,4 +1,5 @@
 #' Makes bar chart to view colors for chosen palette
+#' adding extra explanation
 #' @export
 colorbar <- function(number = 3, palette = donut, shuffle = "no", stacked = "no"){
   if (shuffle == "no") {
