@@ -97,3 +97,5 @@ colorbar <- function(number = 3, palette = donut, shuffle = "no", stacked = "no"
     print("please choose a number between 2 and 7")
   }
 }
+
+devtools::document()
