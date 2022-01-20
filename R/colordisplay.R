@@ -1,5 +1,5 @@
-#' Displays colors for a chosen palette
-#' @export
+# Displays colors for a chosen palette
+
 colordisplay <- function(palette, number = 9, bordercolor = "black", shuffle = "no") {
 
   if (shuffle == "yes"){

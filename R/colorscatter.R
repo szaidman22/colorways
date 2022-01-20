@@ -1,5 +1,5 @@
-#' Makes scatter plot to view colors for chosen palette
-#' @export
+# Makes scatter plot to view colors for chosen palette
+
 colorscatter <- function(number = 3, palette = donut, shuffle = "no"){
 
   if (shuffle == "no") {

@@ -1,5 +1,5 @@
-#' Prints all palettes
-#' @export
+# Prints all palettes
+
 paletteprint <- function() {
   bordercolor <- "black"
   x <- c(-8,27)

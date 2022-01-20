@@ -1,5 +1,5 @@
-#' Makes bar chart to view colors for chosen palette
-#' @export
+# Makes bar chart to view colors for chosen palette
+
 colorbar <- function(number = 3, palette = donut, shuffle = "no", stacked = "no"){
   if (shuffle == "no") {
     c <- colordisplay(palette = palette)
@@ -98,4 +98,5 @@ colorbar <- function(number = 3, palette = donut, shuffle = "no", stacked = "no"
   }
 }
 
-devtools::document()
+
+
