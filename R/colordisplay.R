@@ -25,8 +25,7 @@ colordisplay <- function(palette, number = 9, bordercolor = "black", shuffle = "
     rect(0,8,1,7, col = palette[shuff[7]], border = bordercolor, lwd = 4)
     rect(1,8,2,7, col = palette[shuff[8]], border = bordercolor, lwd = 4)
     rect(2,8,3,7, col = palette[shuff[9]], border = bordercolor, lwd = 4)
-    return(names)
-    print(title)
+    return(title)
   }
 
   else if (number == 8) {
@@ -43,8 +42,7 @@ colordisplay <- function(palette, number = 9, bordercolor = "black", shuffle = "
     rect(1,9,2,8, col = palette[shuff[6]], border = bordercolor, lwd = 4)
     rect(2,9,3,8, col = palette[shuff[7]], border = bordercolor, lwd = 4)
     rect(3,9,4,8, col = palette[shuff[8]], border = bordercolor, lwd = 4)
-    return(names)
-    print(title)
+    return(title)
   }
 
   else if (number == 7) {
@@ -61,8 +59,7 @@ colordisplay <- function(palette, number = 9, bordercolor = "black", shuffle = "
     rect(6,9,9,8, col = palette[shuff[6]], border = bordercolor, lwd = 4)
     rect(9,9,12,8, col = palette[shuff[7]], border = bordercolor, lwd = 4)
 
-    return(names)
-    print(title)
+    return(title)
   }
 
   else if (number == 6) {
@@ -78,8 +75,7 @@ colordisplay <- function(palette, number = 9, bordercolor = "black", shuffle = "
     rect(4,9,8,8, col = palette[shuff[5]], border = bordercolor, lwd = 4)
     rect(8,9,12,8, col = palette[shuff[6]], border = bordercolor, lwd = 4)
 
-    return(names)
-    print(title)
+    return(title)
   }
 
   else if (number == 5) {
@@ -95,8 +91,7 @@ colordisplay <- function(palette, number = 9, bordercolor = "black", shuffle = "
     rect(4,9,8,8, col = palette[shuff[4]], border = bordercolor, lwd = 4)
     rect(8,9,12,8, col = palette[shuff[5]], border = bordercolor, lwd = 4)
 
-    return(names)
-    print(title)
+    return(title)
   }
 
   else if (number == 4) {
@@ -111,8 +106,7 @@ colordisplay <- function(palette, number = 9, bordercolor = "black", shuffle = "
     rect(0,9,6,8, col = palette[shuff[3]], border = bordercolor, lwd = 4)
     rect(6,9,12,8, col = palette[shuff[4]], border = bordercolor, lwd = 4)
 
-    return(names)
-    print(title)
+    return(title)
   }
 
   else if (number == 3) {
@@ -125,8 +119,7 @@ colordisplay <- function(palette, number = 9, bordercolor = "black", shuffle = "
     rect(4,10,8,9, col = palette[shuff[2]], border = bordercolor, lwd = 4)
     rect(8,10,12,9, col = palette[shuff[3]], border = bordercolor, lwd = 4)
 
-    return(names)
-    print(title)
+    return(title)
   }
 
   else if (number == 2) {
@@ -138,8 +131,7 @@ colordisplay <- function(palette, number = 9, bordercolor = "black", shuffle = "
     rect(0,10,6,9, col = palette[shuff[1]], border = bordercolor, lwd = 4)
     rect(6,10,12,9, col = palette[shuff[2]], border = bordercolor, lwd = 4)
 
-    return(names)
-    print(title)
+    return(title)
 
   }
 
@@ -148,3 +140,4 @@ colordisplay <- function(palette, number = 9, bordercolor = "black", shuffle = "
   }
 
 }
+

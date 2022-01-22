@@ -23,3 +23,4 @@ paletteprint <- function() {
     n= n+1
   }
 }
+
