@@ -1,41 +1,7 @@
 # colorways
 colorways local R package
 
-This readme comes from a blogpost found here: https://sofiazaidman.com/?p=723
-
-<!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color">I set out to create a package with three distinct functionalities:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true,"textColor":"black"} -->
-<ol class="has-black-color has-text-color"><li>Save my own palettes</li><li>Display any palette (either native or from another package) in a variety of forms (basic palette, charts, graphs)</li><li>Shuffle color palettes if desired and save the newly ordered list of colors</li></ol>
-<!-- /wp:list -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading -->
-<h2>Saving my own palettes</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>This is just as easy as choosing colors and putting them in lists. The fun part of course is naming the palettes based on my own whimsy. Some examples:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:code -->
-<pre class="wp-block-code"><code>krampus &lt;- c("#0782A6","#A66507","#994846","#CDD845","#624FAF","#52735D","#BBAE92","#FED2E7","#FFE402")
-ballpit &lt;- c("#5C33FF","#FF8E07","#E2E442","#42E44F","#C67CF9","#F64EBC","#ACF64E" ,"#C11736","#00B6A0")
-donut &lt;- c("#FA88F1","#2DEC93","#8FE2FF","#FF882B","#D80D0D","#D0A321","#369830","#B681FF","#858585")</code></pre>
-<!-- /wp:code -->
-
-<!-- wp:paragraph -->
-<p>I decided to go with 9 colors in each palette for uniformity and to maximize novel color combinations when shuffling. I ordered the palettes intentionally with my favorite color combinations come at the beginning, so that when the palettes aren't shuffled, optimal color combinations are preselected. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator"/>
-<!-- /wp:separator -->
+This readme contains excerpts of a blogpost. The full text can be found here: https://sofiazaidman.com/?p=723
 
 <!-- wp:heading -->
 <h2>Paletteprint: view all palettes</h2>
