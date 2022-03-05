@@ -1,5 +1,5 @@
 # colorways
-colorways local R package
+Package to generate and display color palettes.
 
 This readme contains excerpts of a blogpost. The full text can be found here: https://sofiazaidman.com/?p=723
 
