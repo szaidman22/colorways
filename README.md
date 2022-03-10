@@ -1,7 +1,7 @@
 # colorways
 Package to generate and display color palettes.
 
-This readme contains excerpts of a blogpost. The full text can be found here: https://sofiazaidman.com/?p=723
+This readme contains excerpts of a blogpost. The full text can be found [here](https://sofiazaidman.com/designing-functions-to-generate-and-display-color-palettes-in-r/)
 
 <!-- wp:heading -->
 <h2>Paletteprint: view all palettes</h2>
